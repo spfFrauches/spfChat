@@ -1,0 +1,11 @@
+{
+    "require": {
+        "illuminate/routing": "^8.24",
+        "illuminate/events": "^8.24"
+    },
+    "autoload": {
+        "psr-4": {
+            "app\\": "app"
+        }
+    }
+}
